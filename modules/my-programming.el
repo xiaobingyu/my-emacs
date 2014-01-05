@@ -148,9 +148,9 @@ indent yanked text (with prefix arg don't indent)."
 ;; languages
 (require 'my-emacs-lisp)
 (require 'my-shell)
-(require 'my-ruby)
-(require 'my-js-coffee)
-(require 'my-css-scss)
+;(require 'my-ruby)
+;(require 'my-js-coffee)
+;(require 'my-css-scss)
 
 ;; others
 (add-to-list 'auto-mode-alist '("\\.md$" . markdown-mode))
